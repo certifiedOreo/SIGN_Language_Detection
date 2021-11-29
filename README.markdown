@@ -18,9 +18,3 @@ We evaluated numerous Machine Learning techniques for the task and achieved 95% 
  - [Sign Language to Text and Speech Translation in Real Time Using Convolutional Neural Network](https://www.ijert.org/sign-language-to-text-and-speech-translation-in-real-time-using-convolutional-neural-network)
  - [Sign Language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist?select=amer_sign2.png)
 
-
-## Screenshots
-![Input ASL sign](<a href="https://drive.google.com/file/d/1goXUe5SlTHvhn07JElLeHsGodHW_uszC/view?usp=sharing" style="color: blue; font-size: 11px;" target="_blank">Github</a>)
-![28*28 gray scaled for model input](https://drive.google.com/file/d/1goXUe5SlTHvhn07JElLeHsGodHW_uszC/view?usp=sharing)
-
-
