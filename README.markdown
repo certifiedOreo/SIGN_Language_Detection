@@ -10,7 +10,8 @@ We evaluated numerous Machine Learning techniques for the task and achieved 95% 
 - [@vishwajeet19128](https://github.com/vishwajeet19128)
 
 ##screenshots
-![alt text](http://url/to/input.png)
+
+-![alt text](http://url/to/input.png)
 
 
 
