@@ -11,7 +11,8 @@ We evaluated numerous Machine Learning techniques for the task and achieved 95% 
 
 ##screenshots
 
-- ![alt text](http://url/to/input.png)
+![alt text](https://github.com/[certifiedOreo]/[SIGN_Language_Detection]/blob/[branch]/input.png?raw=true)
+
 
 
 
