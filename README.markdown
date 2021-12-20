@@ -11,7 +11,7 @@ We evaluated numerous Machine Learning techniques for the task and achieved 95% 
 
 ##screenshots
 
--![alt text](http://url/to/input.png)
+- ![alt text](http://url/to/input.png)
 
 
 
